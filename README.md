@@ -1,5 +1,5 @@
 # chatter
-chat application
+chat application(under active development)
 
 Todo:
   In server/server.py
